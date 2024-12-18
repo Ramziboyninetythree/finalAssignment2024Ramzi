@@ -7,7 +7,7 @@ test.describe('Final assignment', () => {
    
     const consumerUsername = 'Bobby'
     const businessUsername = 'Robby'
-    const userpassword = process.env.PASSWORD;
+    const userpassword = 'sup3rs3cr3t' //process.env.PASSWORD;
     const wrongpassword = 'this is wrong password'
     const consumerUserRole = 'Consumer'
     const businessUserRole = 'Business'
